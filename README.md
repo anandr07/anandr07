@@ -7,7 +7,7 @@
 
 
 - 🎯 Portfolio website: 
-- 💬 Ask me about anything, I am happy to help :smile:
+- 💬 Feel free to reach out with any questions, I'm more than happy to assist. :smile:
 - 📬 [Reach out to me here!](https://www.linkedin.com/in/anand-raj-4334a91b3/)
 
 <!--
