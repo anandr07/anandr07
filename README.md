@@ -8,7 +8,7 @@
 
 - 🎯 Portfolio website: 
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin](https://www.linkedin.com/in/anand-raj-4334a91b3/)
+- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/anand-raj-4334a91b3/)
 
 <!--
 **anandr07/anandr07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
