@@ -1,4 +1,14 @@
-### Hi there 👋
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
+<!-- <h3> नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋</h3> -->
+### Hi there 👋, I am Anand Raj 😊
+[![Linkedin Badge](https://img.shields.io/badge/-anandraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anand-raj-4334a91b3/)](https://www.linkedin.com/in/anand-raj-4334a91b3/)
+[![Gmail Badge](https://img.shields.io/badge/-anandraj.1rn17ee005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anandraj.1rn17ee005@gmail.com)](mailto:anandraj.1rn17ee005@gmail.com) 
+
+
+- 🎯 Portfolio website: 
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: [Let's get in touch!][linkedin](https://www.linkedin.com/in/anand-raj-4334a91b3/)
 
 <!--
 **anandr07/anandr07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
