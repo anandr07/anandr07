@@ -22,6 +22,26 @@
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 
+<br>
+<br>
+
+### Things I love:
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Problem solving ✍️
+
+
+### :zap: Github Stats
+<p>
+    <a href="https://gitstats.me/anandr07" target="_blank"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=anandr07&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
+    </a>
+</p>
+
+<div align="center">
+<h3 align="center">Express your support and appreciation by starring some of the repositories!&nbsp;✨&nbsp;</h3>
+  
+<!--[website]: -->
+<!-- [linkedin](https://www.linkedin.com/in/anand-raj-4334a91b3/) -->
 
 <!--
 **anandr07/anandr07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
