@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-anand.raj@gwu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anand.raj@gwu.edu)](mailto:anand.raj@gwu.edu) 
 
 
-- 🎯 Portfolio website: 
+- 🎯 Portfolio website:  [Portfolio](https://anandr07.github.io/)
 - 💬 Feel free to reach out with any questions, I'm more than happy to assist. :smile:
 - 📬 [Reach out to me here!](https://www.linkedin.com/in/anand-raj-4334a91b3/)
 
