@@ -37,6 +37,8 @@
     </a>
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand07&show_icons=true&locale=en" alt="anand07" /></p>
+
 <div align="center">
 <h3 align="center">Express your support and appreciation by starring some of the repositories!&nbsp;✨&nbsp;</h3>
   
