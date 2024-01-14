@@ -5,8 +5,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-anandraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anand-raj-4334a91b3/)](https://www.linkedin.com/in/anand-raj-4334a91b3/)
 [![Gmail Badge](https://img.shields.io/badge/-anand.raj@gwu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anand.raj@gwu.edu)](mailto:anand.raj@gwu.edu) 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandr07&label=Profile%20views&color=0e75b6&style=flat" alt="anandr07" /> </p>
 
-- 🎯 Portfolio website:  [Portfolio](https://anandr07.github.io/)
+- 🎯 Portfolio website:  [Portfolio](https://anandr07.github.io)
 - 💬 Feel free to reach out with any questions, I'm more than happy to assist. :smile:
 - 📬 [Reach out to me here!](https://www.linkedin.com/in/anand-raj-4334a91b3/)
 
@@ -37,7 +38,7 @@
     </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand07&show_icons=true&locale=en" alt="anand07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandr07&theme=dark" alt="anandr07" /></p>
 
 <div align="center">
 <h3 align="center">Express your support and appreciation by starring some of the repositories!&nbsp;✨&nbsp;</h3>
