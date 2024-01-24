@@ -10,6 +10,7 @@
 - 🎯 Portfolio website:  [Portfolio](https://anandr07.github.io)
 - 💬 Feel free to reach out with any questions, I'm more than happy to assist. :smile:
 - 📬 [Reach out to me here!](https://www.linkedin.com/in/anand-raj-4334a91b3/)
+- 📑 You can read my blogs at [medium](https://medium.com/me/stories/public)
 
 ### Languages and Tools: 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
