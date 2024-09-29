@@ -30,6 +30,7 @@
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Problem solving ✍️
+- Solving Real World problems using Machine Learning
 
 
 ### :zap: Github Stats
